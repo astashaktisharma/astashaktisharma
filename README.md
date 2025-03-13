@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Welcome to My GitHub!
+Hi, I'm Asta Shakti Suman Sharma, a junior at The College of Idaho majoring in Computer Science specializing in Data Science.
 
-<!--
-**astashaktisharma/astashaktisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Interests: AI & Machine Learning, Software Development, Data Science, and Digital Humanities
 
-Here are some ideas to get you started:
+🔹 Current Projects:
+📚 AI-Powered Virtual Librarian & Personalized Reading Tracker – Helping users find books, track reading progress, and receive personalized recommendations.
+📊 Data Analysis & Visualization – Working with real-world datasets using Python, SQL, and ML techniques.
+🌌 Astroinformatics – Exploring data-driven approaches in observational astronomy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Languages: Python, JavaScript, SQL, HTML/CSS
+Frameworks & Tools: FastAPI, Flask, React, Next.js, PostgreSQL, Redis, Elasticsearch
+Libraries: scikit-learn, Hugging Face Transformers, FastAI, NLTK/spaCy, Recharts
+
+📬 Connect With Me
+Instagram: [Instagram](https://www.instagram.com/sharma_asta/)
+LinkedIn: 
+Feel free to explore my repositories, contribute, or connect with me!
+
