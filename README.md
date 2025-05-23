@@ -1,11 +1,9 @@
-<h1 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/code.png" width="30"/> 
-  Asta Shakti Suman Sharma 
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/books.png" width="30"/>
-</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=66FCF1&center=true&vCenter=true&width=500&lines=Reading+to+understand+the+world.;Coding+to+change+it.;If+it%E2%80%99s+not+a+book,+it%E2%80%99s+probably+a+repo." alt="Typing animation" />
+  <img src="./banner.png" alt="Banner with Asta's name, books and laptop" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=66FCF1&center=true&vCenter=true&width=500&lines=If+it%E2%80%99s+not+a+book,+it%E2%80%99s+probably+a+repo." alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -20,13 +18,8 @@
 
 ### 📖✨ Between Books and Code
 
-I'm Asta, a builder of algorithms and a lover of stories.  
-Some days I’m training machine learning models.  
-Other days I’m under a blanket with a cup of chai and a novel.  
+I'm Asta, a builder of algorithms and a lover of stories. Some days I’m training machine learning models. Other days I’m under a blanket with a cup of chai and a novel.  
 And honestly? The best days include a little bit of both.
-
-> 💡 I code because I love building.<br>
-> 📖 I read because I love wondering.
 
 ---
 
