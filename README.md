@@ -1,7 +1,20 @@
-<h1 align="center">📚💻 Asta Shakti Suman Sharma 💻📚</h1>
+<h1 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/code.png" width="30"/> 
+  Asta Shakti Suman Sharma 
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/books.png" width="30"/>
+</h1>
+
 <p align="center">
-  <em>"Coding like it's a puzzle. Reading like it's a passport."</em><br>
-  👩‍💻 Junior @ The College of Idaho | 🌌 Data Dreamer | 📖 Book Believer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=66FCF1&center=true&vCenter=true&width=460&lines=Coding+like+it's+a+puzzle.;Reading+like+it's+a+passport.;Data+meets+Daydreams.">
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/emoji/48/laptop-emoji.png" width="20"/> 
+  Junior @ <strong>The College of Idaho</strong> &nbsp;|&nbsp; 
+  <img src="https://img.icons8.com/emoji/48/star-emoji.png" width="20"/> 
+  Data Dreamer &nbsp;|&nbsp; 
+  <img src="https://img.icons8.com/emoji/48/open-book.png" width="20"/> 
+  Book Believer
 </p>
 
 ---
