@@ -78,8 +78,8 @@ And honestly? The best days include a little bit of both.
 ![Tidymodels](https://img.shields.io/badge/Tidymodels-BA55D3?style=for-the-badge&logo=r&logoColor=white)
 
 **📚 Reading Comforts**  
-`Goodreads` tracker (DM me!) · Cozy indie bookshelves · Audiobooks for walks  
-Favorite genres: *Contemporary fiction*, *Sci-fi*, *Memoirs with bite*
+`Goodreads` tracker· Cozy indie bookshelves · Audiobooks for walks  
+Favorite genres: *Contemporary fiction*, *Sci-fi*, *Biographies*
 
 ---
 
@@ -87,9 +87,6 @@ Favorite genres: *Contemporary fiction*, *Sci-fi*, *Memoirs with bite*
 
 - 📚 [**AI-Powered Virtual Librarian**](https://github.com/astashaktisharma/AI-Librarian-):  
   Recommends books, tracks reading, and helps you fall in love with stories again.
-
-- 🧠 [**Data Projects**](https://github.com/astashaktisharma/search_engine):  
-  Where real-world mess becomes meaningful visuals.
 
 - ✅ [**To-Do Tracker**](https://github.com/astashaktisharma/ToDo-List-Tracker):  
   Helping me stay organized one checkbox at a time.
