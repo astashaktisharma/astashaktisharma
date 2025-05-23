@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=66FCF1&center=true&vCenter=true&width=460&lines=Coding+like+it's+a+puzzle.;Reading+like+it's+a+passport.;Data+meets+Daydreams.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=66FCF1&center=true&vCenter=true&width=500&lines=Reading+to+understand+the+world.;Coding+to+change+it.;If+it’s+not+a+book,+it’s+probably+a+repo." alt="Typing animation" />
 </p>
 
 <p align="center">
