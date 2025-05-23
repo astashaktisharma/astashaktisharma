@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=66FCF1&center=true&vCenter=true&width=500&lines=Reading+to+understand+the+world.;Coding+to+change+it.;If+it’s+not+a+book,+it’s+probably+a+repo." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=66FCF1&center=true&vCenter=true&width=500&lines=Reading+to+understand+the+world.;Coding+to+change+it.;If+it%E2%80%99s+not+a+book,+it%E2%80%99s+probably+a+repo." alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -13,8 +13,7 @@
   Junior @ <strong>The College of Idaho</strong> &nbsp;|&nbsp; 
   <img src="https://img.icons8.com/emoji/48/star-emoji.png" width="20"/> 
   Data Dreamer &nbsp;|&nbsp; 
-  <img src="https://img.icons8.com/emoji/48/open-book.png" width="20"/> 
-  Book Believer
+  <img src="https://img.icons8.com/ios-filled/25/ffffff/book.png" width="18"/> Book Believer
 </p>
 
 ---
