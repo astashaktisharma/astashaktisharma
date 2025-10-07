@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/emoji/48/laptop-emoji.png" width="20"/> 
-  Junior @ <strong>The College of Idaho</strong> &nbsp;|&nbsp; 
+  Senior @ <strong>The College of Idaho</strong> &nbsp;|&nbsp; 
   <img src="https://img.icons8.com/emoji/48/star-emoji.png" width="20"/> 
   Data Dreamer &nbsp;|&nbsp; 
   <img src="https://img.icons8.com/ios-filled/25/ffffff/book.png" width="18"/> Book Believer
